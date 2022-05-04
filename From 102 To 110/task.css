@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 95vh;
+}
+.pop-up {
+  background: rgb(22, 172, 125);
+  width: 40%;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: none;
+}
+.content {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.content::before {
+  content: "x";
+  position: absolute;
+  top: -40px;
+  right: -20px;
+  font-size: 20px;
+  background-color: rgb(240, 51, 51);
+  padding: 5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+}
