@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "Author_name": "nour",
+    "article_department": "adventure",
+    "aricle_title": "nourhan's Adventure",
+    "article_content": "this is an article writen by nourhan "
+  },
+  {
+    "id": 2,
+    "Author_name": "koko",
+    "article_department": "adventure",
+    "aricle_title": "koko's Adventure",
+    "article_content": "this is an article writen by koko "
+  },
+  {
+    "id": 3,
+    "Author_name": "mooo",
+    "article_department": "adventure",
+    "aricle_title": "mooo's Adventure",
+    "article_content": "this is an article writen by mooo "
+  },
+  {
+    "id": 4,
+    "Author_name": "jojo",
+    "article_department": "adventure",
+    "aricle_title": "jojo's Adventure",
+    "article_content": "this is an article writen by jojo "
+  },
+  {
+    "id": 5,
+    "Author_name": "momo",
+    "article_department": "adventure",
+    "aricle_title": "momo's Adventure",
+    "article_content": "this is an article writen by momo "
+  }
+]
